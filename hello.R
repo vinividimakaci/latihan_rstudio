@@ -1,8 +1,9 @@
-teks1 = "Selamat datang di dunia R"
-teks2 = "Anda akan terkesima dengan kehebatannya"
+"Selamat dayang di Dunia R"
 
-teks1
-teks2
+nama <- "Kezario M. Anaqi"
+umur <- 20
+ipk <- 3.81
 
-list1 = list("Sate kambing", "Gado-gado", "Pecel lele")
-list1
+print(nama)
+print(umur)
+print(ipk)
